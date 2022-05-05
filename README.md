@@ -1,7 +1,7 @@
 mlops_
 ==============================
 
-A short description of the project.
+This project is to apply ML-Ops skills in a task from Healthcare hackathon, held by https://codenrock.com/. The data is to find under the description of the first task.
 
 Project Organization
 ------------
